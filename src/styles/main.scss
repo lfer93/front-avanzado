@@ -1,0 +1,16 @@
+.header{
+    background-color: black;
+
+    &__logo{
+        width: 100px;
+    }
+
+    &__nav{
+        display: flex;
+    }
+
+    &__nac-item{
+        margin-right: 20px;
+        background-color: aqua;
+    }
+}
